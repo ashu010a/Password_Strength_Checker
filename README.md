@@ -4,9 +4,8 @@ A modern, real-time password strength analyzer built with Python and Flask. This
 ✨ Live Demo
 Check out the live application hosted on Render:
 
-https://your-project-name.onrender.com
+https://password-strength-checker-w5sb.onrender.com/
 
-(Replace the URL above with your actual Render URL after deploying)
 
 📸 Screenshot
 Here's a look at the application's interface. It provides real-time feedback with a dynamic strength bar and a list of suggestions.
