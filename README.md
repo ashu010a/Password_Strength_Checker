@@ -3,8 +3,7 @@ A modern, real-time password strength analyzer built with Python and Flask. This
 
 ✨ Live Demo
 Check out the live application hosted on Render:
-
-https://password-strength-checker-w5sb.onrender.com/
+https://password-strength-checker-ttob.onrender.com
 
 
 📸 Screenshot
